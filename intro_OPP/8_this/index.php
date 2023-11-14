@@ -8,7 +8,7 @@
         }
 
         function latir(){
-            return "Au Au <br>";
+            return "Au Au <br>S";
         }
 
         function latirForte(){
